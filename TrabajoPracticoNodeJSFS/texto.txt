@@ -1,0 +1,1 @@
+Esta es una prueba para ver si el archivo copia.txt tiene el mismo texto.
